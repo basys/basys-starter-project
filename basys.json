@@ -1,13 +1,12 @@
 {
   "apps": {
-    "web": {
+    "starter": {
       "type": "web",
       "backendEntry": "backend.js",
       "entry": "web.js",
       "styles": [],
       "favicon": false,
       "browsers": ["> 1%", "last 2 versions"],
-      "e2eEntry": "index.js",
       "testBrowsers": ["chrome"],
     },
   },

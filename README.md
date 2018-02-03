@@ -1,7 +1,7 @@
 # Getting started
 ```sh
 npm install
-npm run dev
+npm run basys dev
 ```
 
 # Commands
