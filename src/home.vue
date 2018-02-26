@@ -5,14 +5,11 @@
 <script>
 export default {
   name: 'home',
-  metaInfo: {
+  info: {
+    path: '/',
+  },
+  head: {
     title: 'Hello world!',
   },
 };
 </script>
-
-<info>
-{
-  path: '/',
-}
-</info>

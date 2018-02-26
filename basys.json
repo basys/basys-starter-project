@@ -5,10 +5,9 @@
       "backendEntry": "backend.js",
       "entry": "web.js",
       "styles": [],
-      "favicon": false,
+      "favicon": null,
       "browsers": ["> 1%", "last 2 versions"],
       "testBrowsers": ["chrome"],
     },
   },
-  "appBuilder": {},
 }
