@@ -6,7 +6,7 @@
     "basys": "basys"
   },
   "devDependencies": {
-    "basys": "~0.3.0"
+    "basys": "~0.3.1"
   },
   "engines": {
     "node": ">= 8"
